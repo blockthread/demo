@@ -4,3 +4,11 @@ This is my first repository.
 
 + Building communities 
 + Learning to code
+
+Some basic Git commands are:
+
+```
+git status
+git add
+git commit
+```
