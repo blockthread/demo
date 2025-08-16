@@ -6,9 +6,10 @@ This is my first repository.
 + Learning to code
 
 Some basic Git commands are:
-
 ```
 git status
+
 git add
+
 git commit
 ```
